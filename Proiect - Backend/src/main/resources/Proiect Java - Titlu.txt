@@ -1,0 +1,3 @@
+Informatii despre tarile globului. 
+Determinati daca exista drum rutier intre doua tari din Europa. 
+In caz afirmativ: alegeti drumurile cu nr. minim de tari traversate.

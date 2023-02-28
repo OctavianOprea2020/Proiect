@@ -1,0 +1,46 @@
+﻿Albania|Tirana|2886026|28748|EuropeGR~ME~MK~RS|AL
+Andorra|Andorra la Vella|78014|468|Europe|ES~FR|AD
+Austria|Vienna|8725931|83871|Europe|CH~CZ~DE~HU~IT~LI~SK~SI|AT
+Belarus|Minsk|9498700|207600|Europe|LT~LV~PL~RU~UA|BY
+Belgium|Brussels|11319511|30528|Europe|DE~FR~LU~NL|BE
+Bosnia and Herzegovina|Sarajevo|3531159|51209|Europe|HR~ME~RS|BA
+Bulgaria|Sofia|7153784|110879|Europe|GR~MK~RO~RS~TR|BG
+Croatia|Zagreb|4190669|56594|Europe|BA~HU~ME~RS~SI|HR
+Cyprus|Nicosia|847000|9251|Europe||CY
+Czechia|Prague|10558524|78865|Europe|AT~DE~PL~SK|CZ
+Denmark|Copenhagen|5717014|43094|Europe|DE|DK
+Estonia|Tallinn|1315944|45227|Europe|LV~RU|EE
+Finland|Helsinki|5491817|338424|Europe|NO~RU~SE|FI
+France|Paris|66710000|640679|Europe|AD~BE~CH~DE~ES~IT~LU~MC|FR
+Germany|Berlin|81770900|357114|Europe|AT~BE~CH~CZ~DK~FR~LU~NL~PL|DE
+Greece|Athens|10858018|131990|Europe|AL~BG~MK|GR
+Hungary|Budapest|9823000|93028|Europe|AU~HR~RO~RS~SK~SI~UA|HU
+Iceland|Reykjavik|334300|103000|Europe||IS
+Ireland|Dublin|6378000|70273|Europe|UK|IE
+Italy|Rome|60665551|301336|Europe|AU~FR~SM~SI~CH~VA|IT
+Latvia|Riga|1961600|64559|Europe|BY~EE~LT~RU|LV
+Liechtenstein|Vaduz|37623|160|Europe|AU~CH|LI
+Lithuania|Vilnius|2872294|65300|Europe|BY~LV~PL~RU|LT
+Luxembourg|Luxembourg|576200|2586|Europe|BE~FR~DE|LU
+Malta|Valletta|425384|316|Europe||MT
+Moldova|Chisinau|3553100|33846|Europe|RO~UA|MD
+Monaco|Monaco|38400|2|Europe|FR|MC
+Montenegro|Podgorica|621810|13812|Europe|AL~BA~HR~RS|ME
+Netherlands|Amsterdam|17019800|41850|Europe|BE~DE|NL
+North Macedonia|Skopje|2058539|25713|Europe|AL~BG~GR~RS|MK
+Norway|Oslo|5223256|323802|Europe|FI~SE~RU|NO
+Poland|Warsaw|38437239|312679|Europe|BY~CZ~DE~LT~RU~SK~UA|PL
+Portugal|Lisbon|10374822|92090|Europe|ES|PT
+Romania|Bucharest|19861408|238391|Europe|BG~HU~MD~RS~UA|RO
+Russia|Moscow|146599183|17124442|Europe|BY~EE~FI~LV~NO~UA|RU
+San Marino|City of San Marino|33005|61|Europe|IT|SM
+Serbia|Belgrade|7076372|88361|Europe|BA~BG~HR~HU~MK~ME~RO|RS
+Slovakia|Bratislava|5426252|49037|Europe|AU~CZ~HU~PL~UA|SK
+Slovenia|Ljubljana|2064188|20273|Europe|AU~HR~IT~HU|SI
+Spain|Madrid|46438422|505992|Europe|AD~FR~PT|ES
+Sweden|Stockholm|9894888|450295|Europe|FI~NO|SE
+Switzerland|Bern|8341600|41284|Europe|AT~DE~FR~IT~LI|CH
+Turkey|Ankara|78741053|783562|Europe|BG~GR|TR
+Ukraine|Kiev|42692393|603700|Europe|BY~HU~MD~PL~RO~RU~SK|UA
+United Kingdom|London|65110000|242900|Europe|IE|UK
+Vatican|Rome|451|1|Europe|IT|VA

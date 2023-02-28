@@ -1,0 +1,208 @@
+(1) Exista drum de la 'PT' la 'AD' cu lungimea 2: 'PT~ES~AD'
+Exista 1 drum de la 'PT' la 'AD' de lungime 2.
+
+(1) Exista drum de la 'PT' la 'AL' cu lungimea 7: 'PT~ES~FR~CH~AT~HU~RS~AL'
+(2) Exista drum de la 'PT' la 'AL' cu lungimea 7: 'PT~ES~FR~DE~AT~HU~RS~AL'
+(3) Exista drum de la 'PT' la 'AL' cu lungimea 7: 'PT~ES~FR~IT~AT~HU~RS~AL'
+(4) Exista drum de la 'PT' la 'AL' cu lungimea 7: 'PT~ES~FR~IT~SI~HR~ME~AL'
+(5) Exista drum de la 'PT' la 'AL' cu lungimea 7: 'PT~ES~FR~IT~SI~HR~RS~AL'
+(6) Exista drum de la 'PT' la 'AL' cu lungimea 7: 'PT~ES~FR~IT~SI~HU~RS~AL'
+Exista 6 drumuri de la 'PT' la 'AL' de lungime 7.
+
+(1) Exista drum de la 'PT' la 'AT' cu lungimea 4: 'PT~ES~FR~CH~AT'
+(2) Exista drum de la 'PT' la 'AT' cu lungimea 4: 'PT~ES~FR~DE~AT'
+(3) Exista drum de la 'PT' la 'AT' cu lungimea 4: 'PT~ES~FR~IT~AT'
+Exista 3 drumuri de la 'PT' la 'AT' de lungime 4.
+
+(1) Exista drum de la 'PT' la 'BA' cu lungimea 6: 'PT~ES~FR~IT~SI~HR~BA'
+Exista 1 drum de la 'PT' la 'BA' de lungime 6.
+
+(1) Exista drum de la 'PT' la 'BE' cu lungimea 3: 'PT~ES~FR~BE'
+Exista 1 drum de la 'PT' la 'BE' de lungime 3.
+
+(1) Exista drum de la 'PT' la 'BG' cu lungimea 7: 'PT~ES~FR~CH~AT~HU~RO~BG'
+(2) Exista drum de la 'PT' la 'BG' cu lungimea 7: 'PT~ES~FR~CH~AT~HU~RS~BG'
+(3) Exista drum de la 'PT' la 'BG' cu lungimea 7: 'PT~ES~FR~DE~AT~HU~RO~BG'
+(4) Exista drum de la 'PT' la 'BG' cu lungimea 7: 'PT~ES~FR~DE~AT~HU~RS~BG'
+(5) Exista drum de la 'PT' la 'BG' cu lungimea 7: 'PT~ES~FR~DE~PL~UA~RO~BG'
+(6) Exista drum de la 'PT' la 'BG' cu lungimea 7: 'PT~ES~FR~IT~AT~HU~RO~BG'
+(7) Exista drum de la 'PT' la 'BG' cu lungimea 7: 'PT~ES~FR~IT~AT~HU~RS~BG'
+(8) Exista drum de la 'PT' la 'BG' cu lungimea 7: 'PT~ES~FR~IT~SI~HR~RS~BG'
+(9) Exista drum de la 'PT' la 'BG' cu lungimea 7: 'PT~ES~FR~IT~SI~HU~RO~BG'
+(10) Exista drum de la 'PT' la 'BG' cu lungimea 7: 'PT~ES~FR~IT~SI~HU~RS~BG'
+Exista 10 drumuri de la 'PT' la 'BG' de lungime 7.
+
+(1) Exista drum de la 'PT' la 'BY' cu lungimea 5: 'PT~ES~FR~DE~PL~BY'
+Exista 1 drum de la 'PT' la 'BY' de lungime 5.
+
+(1) Exista drum de la 'PT' la 'CH' cu lungimea 3: 'PT~ES~FR~CH'
+Exista 1 drum de la 'PT' la 'CH' de lungime 3.
+
+Nu exista drumuri de la 'PT' la 'CY'.
+
+(1) Exista drum de la 'PT' la 'CZ' cu lungimea 4: 'PT~ES~FR~DE~CZ'
+Exista 1 drum de la 'PT' la 'CZ' de lungime 4.
+
+(1) Exista drum de la 'PT' la 'DE' cu lungimea 3: 'PT~ES~FR~DE'
+Exista 1 drum de la 'PT' la 'DE' de lungime 3.
+
+(1) Exista drum de la 'PT' la 'DK' cu lungimea 4: 'PT~ES~FR~DE~DK'
+Exista 1 drum de la 'PT' la 'DK' de lungime 4.
+
+(1) Exista drum de la 'PT' la 'EE' cu lungimea 7: 'PT~ES~FR~DE~PL~BY~LV~EE'
+(2) Exista drum de la 'PT' la 'EE' cu lungimea 7: 'PT~ES~FR~DE~PL~BY~RU~EE'
+(3) Exista drum de la 'PT' la 'EE' cu lungimea 7: 'PT~ES~FR~DE~PL~LT~LV~EE'
+(4) Exista drum de la 'PT' la 'EE' cu lungimea 7: 'PT~ES~FR~DE~PL~UA~RU~EE'
+Exista 4 drumuri de la 'PT' la 'EE' de lungime 7.
+
+(1) Exista drum direct de la 'PT' la 'ES': 'PT~ES'
+Exista 1 drum de la 'PT' la 'ES' de lungime 1.
+
+(1) Exista drum de la 'PT' la 'FI' cu lungimea 7: 'PT~ES~FR~DE~PL~BY~RU~FI'
+(2) Exista drum de la 'PT' la 'FI' cu lungimea 7: 'PT~ES~FR~DE~PL~UA~RU~FI'
+Exista 2 drumuri de la 'PT' la 'FI' de lungime 7.
+
+(1) Exista drum de la 'PT' la 'FR' cu lungimea 2: 'PT~ES~FR'
+Exista 1 drum de la 'PT' la 'FR' de lungime 2.
+
+(1) Exista drum de la 'PT' la 'GR' cu lungimea 8: 'PT~ES~FR~CH~AT~HU~RO~BG~GR'
+(2) Exista drum de la 'PT' la 'GR' cu lungimea 8: 'PT~ES~FR~CH~AT~HU~RS~AL~GR'
+(3) Exista drum de la 'PT' la 'GR' cu lungimea 8: 'PT~ES~FR~CH~AT~HU~RS~BG~GR'
+(4) Exista drum de la 'PT' la 'GR' cu lungimea 8: 'PT~ES~FR~CH~AT~HU~RS~MK~GR'
+(5) Exista drum de la 'PT' la 'GR' cu lungimea 8: 'PT~ES~FR~DE~AT~HU~RO~BG~GR'
+(6) Exista drum de la 'PT' la 'GR' cu lungimea 8: 'PT~ES~FR~DE~AT~HU~RS~AL~GR'
+(7) Exista drum de la 'PT' la 'GR' cu lungimea 8: 'PT~ES~FR~DE~AT~HU~RS~BG~GR'
+(8) Exista drum de la 'PT' la 'GR' cu lungimea 8: 'PT~ES~FR~DE~AT~HU~RS~MK~GR'
+(9) Exista drum de la 'PT' la 'GR' cu lungimea 8: 'PT~ES~FR~DE~PL~UA~RO~BG~GR'
+(10) Exista drum de la 'PT' la 'GR' cu lungimea 8: 'PT~ES~FR~IT~AT~HU~RO~BG~GR'
+(11) Exista drum de la 'PT' la 'GR' cu lungimea 8: 'PT~ES~FR~IT~AT~HU~RS~AL~GR'
+(12) Exista drum de la 'PT' la 'GR' cu lungimea 8: 'PT~ES~FR~IT~AT~HU~RS~BG~GR'
+(13) Exista drum de la 'PT' la 'GR' cu lungimea 8: 'PT~ES~FR~IT~AT~HU~RS~MK~GR'
+(14) Exista drum de la 'PT' la 'GR' cu lungimea 8: 'PT~ES~FR~IT~SI~HR~ME~AL~GR'
+(15) Exista drum de la 'PT' la 'GR' cu lungimea 8: 'PT~ES~FR~IT~SI~HR~RS~AL~GR'
+(16) Exista drum de la 'PT' la 'GR' cu lungimea 8: 'PT~ES~FR~IT~SI~HR~RS~BG~GR'
+(17) Exista drum de la 'PT' la 'GR' cu lungimea 8: 'PT~ES~FR~IT~SI~HR~RS~MK~GR'
+(18) Exista drum de la 'PT' la 'GR' cu lungimea 8: 'PT~ES~FR~IT~SI~HU~RO~BG~GR'
+(19) Exista drum de la 'PT' la 'GR' cu lungimea 8: 'PT~ES~FR~IT~SI~HU~RS~AL~GR'
+(20) Exista drum de la 'PT' la 'GR' cu lungimea 8: 'PT~ES~FR~IT~SI~HU~RS~BG~GR'
+(21) Exista drum de la 'PT' la 'GR' cu lungimea 8: 'PT~ES~FR~IT~SI~HU~RS~MK~GR'
+Exista 21 drumuri de la 'PT' la 'GR' de lungime 8.
+
+(1) Exista drum de la 'PT' la 'HR' cu lungimea 5: 'PT~ES~FR~IT~SI~HR'
+Exista 1 drum de la 'PT' la 'HR' de lungime 5.
+
+(1) Exista drum de la 'PT' la 'HU' cu lungimea 5: 'PT~ES~FR~CH~AT~HU'
+(2) Exista drum de la 'PT' la 'HU' cu lungimea 5: 'PT~ES~FR~DE~AT~HU'
+(3) Exista drum de la 'PT' la 'HU' cu lungimea 5: 'PT~ES~FR~IT~AT~HU'
+(4) Exista drum de la 'PT' la 'HU' cu lungimea 5: 'PT~ES~FR~IT~SI~HU'
+Exista 4 drumuri de la 'PT' la 'HU' de lungime 5.
+
+Nu exista drumuri de la 'PT' la 'IE'.
+
+Nu exista drumuri de la 'PT' la 'IS'.
+
+(1) Exista drum de la 'PT' la 'IT' cu lungimea 3: 'PT~ES~FR~IT'
+Exista 1 drum de la 'PT' la 'IT' de lungime 3.
+
+(1) Exista drum de la 'PT' la 'LI' cu lungimea 4: 'PT~ES~FR~CH~LI'
+Exista 1 drum de la 'PT' la 'LI' de lungime 4.
+
+(1) Exista drum de la 'PT' la 'LT' cu lungimea 5: 'PT~ES~FR~DE~PL~LT'
+Exista 1 drum de la 'PT' la 'LT' de lungime 5.
+
+(1) Exista drum de la 'PT' la 'LU' cu lungimea 3: 'PT~ES~FR~LU'
+Exista 1 drum de la 'PT' la 'LU' de lungime 3.
+
+(1) Exista drum de la 'PT' la 'LV' cu lungimea 6: 'PT~ES~FR~DE~PL~BY~LV'
+(2) Exista drum de la 'PT' la 'LV' cu lungimea 6: 'PT~ES~FR~DE~PL~LT~LV'
+Exista 2 drumuri de la 'PT' la 'LV' de lungime 6.
+
+(1) Exista drum de la 'PT' la 'MC' cu lungimea 3: 'PT~ES~FR~MC'
+Exista 1 drum de la 'PT' la 'MC' de lungime 3.
+
+(1) Exista drum de la 'PT' la 'MD' cu lungimea 6: 'PT~ES~FR~DE~PL~UA~MD'
+Exista 1 drum de la 'PT' la 'MD' de lungime 6.
+
+(1) Exista drum de la 'PT' la 'ME' cu lungimea 6: 'PT~ES~FR~IT~SI~HR~ME'
+Exista 1 drum de la 'PT' la 'ME' de lungime 6.
+
+(1) Exista drum de la 'PT' la 'MK' cu lungimea 7: 'PT~ES~FR~CH~AT~HU~RS~MK'
+(2) Exista drum de la 'PT' la 'MK' cu lungimea 7: 'PT~ES~FR~DE~AT~HU~RS~MK'
+(3) Exista drum de la 'PT' la 'MK' cu lungimea 7: 'PT~ES~FR~IT~AT~HU~RS~MK'
+(4) Exista drum de la 'PT' la 'MK' cu lungimea 7: 'PT~ES~FR~IT~SI~HR~RS~MK'
+(5) Exista drum de la 'PT' la 'MK' cu lungimea 7: 'PT~ES~FR~IT~SI~HU~RS~MK'
+Exista 5 drumuri de la 'PT' la 'MK' de lungime 7.
+
+Nu exista drumuri de la 'PT' la 'MT'.
+
+(1) Exista drum de la 'PT' la 'NL' cu lungimea 4: 'PT~ES~FR~BE~NL'
+(2) Exista drum de la 'PT' la 'NL' cu lungimea 4: 'PT~ES~FR~DE~NL'
+Exista 2 drumuri de la 'PT' la 'NL' de lungime 4.
+
+(1) Exista drum de la 'PT' la 'NO' cu lungimea 7: 'PT~ES~FR~DE~PL~BY~RU~NO'
+(2) Exista drum de la 'PT' la 'NO' cu lungimea 7: 'PT~ES~FR~DE~PL~UA~RU~NO'
+Exista 2 drumuri de la 'PT' la 'NO' de lungime 7.
+
+(1) Exista drum de la 'PT' la 'PL' cu lungimea 4: 'PT~ES~FR~DE~PL'
+Exista 1 drum de la 'PT' la 'PL' de lungime 4.
+
+(1) Exista drum de la 'PT' la 'PT' cu lungimea 2: 'PT~ES~PT'
+Exista 1 drum de la 'PT' la 'PT' de lungime 2.
+
+(1) Exista drum de la 'PT' la 'RO' cu lungimea 6: 'PT~ES~FR~CH~AT~HU~RO'
+(2) Exista drum de la 'PT' la 'RO' cu lungimea 6: 'PT~ES~FR~DE~AT~HU~RO'
+(3) Exista drum de la 'PT' la 'RO' cu lungimea 6: 'PT~ES~FR~DE~PL~UA~RO'
+(4) Exista drum de la 'PT' la 'RO' cu lungimea 6: 'PT~ES~FR~IT~AT~HU~RO'
+(5) Exista drum de la 'PT' la 'RO' cu lungimea 6: 'PT~ES~FR~IT~SI~HU~RO'
+Exista 5 drumuri de la 'PT' la 'RO' de lungime 6.
+
+(1) Exista drum de la 'PT' la 'RS' cu lungimea 6: 'PT~ES~FR~CH~AT~HU~RS'
+(2) Exista drum de la 'PT' la 'RS' cu lungimea 6: 'PT~ES~FR~DE~AT~HU~RS'
+(3) Exista drum de la 'PT' la 'RS' cu lungimea 6: 'PT~ES~FR~IT~AT~HU~RS'
+(4) Exista drum de la 'PT' la 'RS' cu lungimea 6: 'PT~ES~FR~IT~SI~HR~RS'
+(5) Exista drum de la 'PT' la 'RS' cu lungimea 6: 'PT~ES~FR~IT~SI~HU~RS'
+Exista 5 drumuri de la 'PT' la 'RS' de lungime 6.
+
+(1) Exista drum de la 'PT' la 'RU' cu lungimea 6: 'PT~ES~FR~DE~PL~BY~RU'
+(2) Exista drum de la 'PT' la 'RU' cu lungimea 6: 'PT~ES~FR~DE~PL~UA~RU'
+Exista 2 drumuri de la 'PT' la 'RU' de lungime 6.
+
+(1) Exista drum de la 'PT' la 'SE' cu lungimea 8: 'PT~ES~FR~DE~PL~BY~RU~FI~SE'
+(2) Exista drum de la 'PT' la 'SE' cu lungimea 8: 'PT~ES~FR~DE~PL~BY~RU~NO~SE'
+(3) Exista drum de la 'PT' la 'SE' cu lungimea 8: 'PT~ES~FR~DE~PL~UA~RU~FI~SE'
+(4) Exista drum de la 'PT' la 'SE' cu lungimea 8: 'PT~ES~FR~DE~PL~UA~RU~NO~SE'
+Exista 4 drumuri de la 'PT' la 'SE' de lungime 8.
+
+(1) Exista drum de la 'PT' la 'SI' cu lungimea 4: 'PT~ES~FR~IT~SI'
+Exista 1 drum de la 'PT' la 'SI' de lungime 4.
+
+(1) Exista drum de la 'PT' la 'SK' cu lungimea 5: 'PT~ES~FR~CH~AT~SK'
+(2) Exista drum de la 'PT' la 'SK' cu lungimea 5: 'PT~ES~FR~DE~AT~SK'
+(3) Exista drum de la 'PT' la 'SK' cu lungimea 5: 'PT~ES~FR~DE~CZ~SK'
+(4) Exista drum de la 'PT' la 'SK' cu lungimea 5: 'PT~ES~FR~DE~PL~SK'
+(5) Exista drum de la 'PT' la 'SK' cu lungimea 5: 'PT~ES~FR~IT~AT~SK'
+Exista 5 drumuri de la 'PT' la 'SK' de lungime 5.
+
+(1) Exista drum de la 'PT' la 'SM' cu lungimea 4: 'PT~ES~FR~IT~SM'
+Exista 1 drum de la 'PT' la 'SM' de lungime 4.
+
+(1) Exista drum de la 'PT' la 'TR' cu lungimea 8: 'PT~ES~FR~CH~AT~HU~RO~BG~TR'
+(2) Exista drum de la 'PT' la 'TR' cu lungimea 8: 'PT~ES~FR~CH~AT~HU~RS~BG~TR'
+(3) Exista drum de la 'PT' la 'TR' cu lungimea 8: 'PT~ES~FR~DE~AT~HU~RO~BG~TR'
+(4) Exista drum de la 'PT' la 'TR' cu lungimea 8: 'PT~ES~FR~DE~AT~HU~RS~BG~TR'
+(5) Exista drum de la 'PT' la 'TR' cu lungimea 8: 'PT~ES~FR~DE~PL~UA~RO~BG~TR'
+(6) Exista drum de la 'PT' la 'TR' cu lungimea 8: 'PT~ES~FR~IT~AT~HU~RO~BG~TR'
+(7) Exista drum de la 'PT' la 'TR' cu lungimea 8: 'PT~ES~FR~IT~AT~HU~RS~BG~TR'
+(8) Exista drum de la 'PT' la 'TR' cu lungimea 8: 'PT~ES~FR~IT~SI~HR~RS~BG~TR'
+(9) Exista drum de la 'PT' la 'TR' cu lungimea 8: 'PT~ES~FR~IT~SI~HU~RO~BG~TR'
+(10) Exista drum de la 'PT' la 'TR' cu lungimea 8: 'PT~ES~FR~IT~SI~HU~RS~BG~TR'
+Exista 10 drumuri de la 'PT' la 'TR' de lungime 8.
+
+(1) Exista drum de la 'PT' la 'UA' cu lungimea 5: 'PT~ES~FR~DE~PL~UA'
+Exista 1 drum de la 'PT' la 'UA' de lungime 5.
+
+Nu exista drumuri de la 'PT' la 'UK'.
+
+(1) Exista drum de la 'PT' la 'VA' cu lungimea 4: 'PT~ES~FR~IT~VA'
+Exista 1 drum de la 'PT' la 'VA' de lungime 4.
+

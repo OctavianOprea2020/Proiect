@@ -1,0 +1,236 @@
+Afghanistan|Kabul|27657145|652230|Asia|IRN~PAK~TKM~UZB~TJK~CHN
+Åland Islands|Mariehamn|28875|1580|Europe|
+Albania|Tirana|2886026|28748|Europe|MNE~GRC~MKD~KOS
+Algeria|Algiers|40400000|2381741|Africa|TUN~LBY~NER~ESH~MRT~MLI~MAR
+American Samoa|Pago Pago|57100|199|Oceania|
+Andorra|Andorra la Vella|78014|468|Europe|FRA~ESP
+Angola|Luanda|25868000|1246700|Africa|COG~COD~ZMB~NAM
+Anguilla|The Valley|13452|91|Americas|
+Antigua and Barbuda|Saint John's|86295|442|Americas|
+Argentina|Buenos Aires|43590400|2780400|Americas|BOL~BRA~CHL~PRY~URY
+Armenia|Yerevan|2994400|29743|Asia|AZE~GEO~IRN~TUR
+Aruba|Oranjestad|107394|180|Americas|
+Australia|Canberra|24117360|7692024|Oceania|
+Austria|Vienna|8725931|83871|Europe|CZE~DEU~HUN~ITA~LIE~SVK~SVN~CHE
+Azerbaijan|Baku|9730500|86600|Asia|ARM~GEO~IRN~RUS~TUR
+Bahamas|Nassau|378040|13943|Americas|
+Bahrain|Manama|1404900|765|Asia|
+Bangladesh|Dhaka|161006790|147570|Asia|MMR~IND
+Barbados|Bridgetown|285000|430|Americas|
+Belarus|Minsk|9498700|207600|Europe|LVA~LTU~POL~RUS~UKR
+Belgium|Brussels|11319511|30528|Europe|FRA~DEU~LUX~NLD
+Belize|Belmopan|370300|22966|Americas|GTM~MEX
+Benin|Porto-Novo|10653654|112622|Africa|BFA~NER~NGA~TGO
+Bermuda|Hamilton|61954|54|Americas|
+Bhutan|Thimphu|775620|38394|Asia|CHN~IND
+Bolivia (Plurinational State of)|Sucre|10985059|1098581|Americas|ARG~BRA~CHL~PRY~PER
+Bonaire, Sint Eustatius and Saba|Kralendijk|17408|294|Americas|
+Bosnia and Herzegovina|Sarajevo|3531159|51209|Europe|HRV~MNE~SRB
+Botswana|Gaborone|2141206|582000|Africa|NAM~ZAF~ZMB~ZWE
+Brazil|Brasília|206135893|8515767|Americas|ARG~BOL~COL~GUF~GUY~PRY~PER~SUR~URY~VEN
+British Indian Ocean Territory|Diego Garcia|3000|60|Africa|
+Virgin Islands (British)|Road Town|28514|151|Americas|
+Virgin Islands (U.S.)|Charlotte Amalie|114743|346|Americas|
+Brunei Darussalam|Bandar Seri Begawan|411900|5765|Asia|MYS
+Bulgaria|Sofia|7153784|110879|Europe|GRC~MKD~ROU~SRB~TUR
+Burkina Faso|Ouagadougou|19034397|272967|Africa|BEN~CIV~GHA~MLI~NER~TGO
+Burundi|Bujumbura|10114505|27834|Africa|COD~RWA~TZA
+Cambodia|Phnom Penh|15626444|181035|Asia|LAO~THA~VNM
+Cameroon|Yaoundé|22709892|475442|Africa|CAF~TCD~COG~GNQ~GAB~NGA
+Canada|Ottawa|36155487|9984670|Americas|USA
+Cabo Verde|Praia|531239|4033|Africa|
+Cayman Islands|George Town|58238|264|Americas|
+Central African Republic|Bangui|4998000|622984|Africa|CMR~TCD~COD~COG~SSD~SDN
+Chad|N'Djamena|14497000|1284000|Africa|CMR~CAF~LBY~NER~NGA~SSD
+Chile|Santiago|18191900|756102|Americas|ARG~BOL~PER
+China|Beijing|1377422166|9640011|Asia|AFG~BTN~MMR~HKG~IND~KAZ~PRK~KGZ~LAO~MAC~MNG~PAK~RUS~TJK~VNM
+Christmas Island|Flying Fish Cove|2072|135|Oceania|
+Cocos (Keeling) Islands|West Island|550|14|Oceania|
+Colombia|Bogotá|48759958|1141748|Americas|BRA~ECU~PAN~PER~VEN
+Comoros|Moroni|806153|1862|Africa|
+Congo|Brazzaville|4741000|342000|Africa|AGO~CMR~CAF~COD~GAB
+Congo (Democratic Republic of the)|Kinshasa|85026000|2344858|Africa|AGO~BDI~CAF~COG~RWA~SSD~TZA~UGA~ZMB
+Cook Islands|Avarua|18100|236|Oceania|
+Costa Rica|San José|4890379|51100|Americas|NIC~PAN
+Croatia|Zagreb|4190669|56594|Europe|BIH~HUN~MNE~SRB~SVN
+Cuba|Havana|11239004|109884|Americas|
+Curaçao|Willemstad|154843|444|Americas|
+Cyprus|Nicosia|847000|9251|Europe|GBR
+Czech Republic|Prague|10558524|78865|Europe|AUT~DEU~POL~SVK
+Denmark|Copenhagen|5717014|43094|Europe|DEU
+Djibouti|Djibouti|900000|23200|Africa|ERI~ETH~SOM
+Dominica|Roseau|71293|751|Americas|
+Dominican Republic|Santo Domingo|10075045|48671|Americas|HTI
+Ecuador|Quito|16545799|276841|Americas|COL~PER
+Egypt|Cairo|91290000|1002450|Africa|ISR~LBY~SDN
+El Salvador|San Salvador|6520675|21041|Americas|GTM~HND
+Equatorial Guinea|Malabo|1222442|28051|Africa|CMR~GAB
+Eritrea|Asmara|5352000|117600|Africa|DJI~ETH~SDN
+Estonia|Tallinn|1315944|45227|Europe|LVA~RUS
+Ethiopia|Addis Ababa|92206005|1104300|Africa|DJI~ERI~KEN~SOM~SSD~SDN
+Falkland Islands (Malvinas)|Stanley|2563|12173|Americas|
+Faroe Islands|Tórshavn|49376|1393|Europe|
+Fiji|Suva|867000|18272|Oceania|
+Finland|Helsinki|5491817|338424|Europe|NOR~SWE~RUS
+France|Paris|66710000|640679|Europe|AND~BEL~DEU~ITA~LUX~MCO~ESP~CHE
+French Polynesia|Papeetē|271800|4167|Oceania|
+French Southern Territories|Port-aux-Français|140|7747|Africa|
+Gabon|Libreville|1802278|267668|Africa|CMR~COG~GNQ
+Gambia|Banjul|1882450|11295|Africa|SEN
+Georgia|Tbilisi|3720400|69700|Asia|ARM~AZE~RUS~TUR
+Germany|Berlin|81770900|357114|Europe|AUT~BEL~CZE~DNK~FRA~LUX~NLD~POL~CHE
+Ghana|Accra|27670174|238533|Africa|BFA~CIV~TGO
+Gibraltar|Gibraltar|33140|6|Europe|ESP
+Greece|Athens|10858018|131990|Europe|ALB~BGR~TUR~MKD
+Greenland|Nuuk|55847|2166086|Americas|
+Grenada|St. George's|103328|344|Americas|
+Guam|Hagåtña|184200|549|Oceania|
+Guatemala|Guatemala City|16176133|108889|Americas|BLZ~SLV~HND~MEX
+Guernsey|St. Peter Port|62999|78|Europe|
+Guinea|Conakry|12947000|245857|Africa|CIV~GNB~LBR~MLI~SEN~SLE
+Guinea-Bissau|Bissau|1547777|36125|Africa|GIN~SEN
+Guyana|Georgetown|746900|214969|Americas|BRA~SUR~VEN
+Haiti|Port-au-Prince|11078033|27750|Americas|DOM
+Holy See|Rome|451|0|Europe|ITA
+Honduras|Tegucigalpa|8576532|112492|Americas|GTM~SLV~NIC
+Hong Kong|City of Victoria|7324300|1104|Asia|CHN
+Hungary|Budapest|9823000|93028|Europe|AUT~HRV~ROU~SRB~SVK~SVN~UKR
+Iceland|Reykjavík|334300|103000|Europe|
+India|New Delhi|1295210000|3287590|Asia|AFG~BGD~BTN~MMR~CHN~NPL~PAK~LKA
+Indonesia|Jakarta|258705000|1904569|Asia|TLS~MYS~PNG
+Côte d'Ivoire|Yamoussoukro|22671331|322463|Africa|BFA~GHA~GIN~LBR~MLI
+Iran (Islamic Republic of)|Tehran|79369900|1648195|Asia|AFG~ARM~AZE~IRQ~PAK~TUR~TKM
+Iraq|Baghdad|37883543|438317|Asia|IRN~JOR~KWT~SAU~SYR~TUR
+Ireland|Dublin|6378000|70273|Europe|GBR
+Isle of Man|Douglas|84497|572|Europe|
+Israel|Jerusalem|8527400|20770|Asia|EGY~JOR~LBN~SYR
+Italy|Rome|60665551|301336|Europe|AUT~FRA~SMR~SVN~CHE~VAT
+Jamaica|Kingston|2723246|10991|Americas|
+Japan|Tokyo|126960000|377930|Asia|
+Jersey|Saint Helier|100800|116|Europe|
+Jordan|Amman|9531712|89342|Asia|IRQ~ISR~SAU~SYR
+Kazakhstan|Astana|17753200|2724900|Asia|CHN~KGZ~RUS~TKM~UZB
+Kenya|Nairobi|47251000|580367|Africa|ETH~SOM~SSD~TZA~UGA
+Kiribati|South Tarawa|113400|811|Oceania|
+Kuwait|Kuwait City|4183658|17818|Asia|IRN~SAU
+Kyrgyzstan|Bishkek|6047800|199951|Asia|CHN~KAZ~TJK~UZB
+Lao People's Democratic Republic|Vientiane|6492400|236800|Asia|MMR~KHM~CHN~THA~VNM
+Latvia|Riga|1961600|64559|Europe|BLR~EST~LTU~RUS
+Lebanon|Beirut|5988000|10452|Asia|ISR~SYR
+Lesotho|Maseru|1894194|30355|Africa|ZAF
+Liberia|Monrovia|4615000|111369|Africa|GIN~CIV~SLE
+Libya|Tripoli|6385000|1759540|Africa|DZA~TCD~EGY~NER~SDN~TUN
+Liechtenstein|Vaduz|37623|160|Europe|AUT~CHE
+Lithuania|Vilnius|2872294|65300|Europe|BLR~LVA~POL~RUS
+Luxembourg|Luxembourg|576200|2586|Europe|BEL~FRA~DEU
+Macedonia (the former Yugoslav Republic of)|Skopje|2058539|25713|Europe|ALB~BGR~GRC~KOS~SRB
+Madagascar|Antananarivo|22434363|587041|Africa|
+Malawi|Lilongwe|16832910|118484|Africa|MOZ~TZA~ZMB
+Malaysia|Kuala Lumpur|31405416|330803|Asia|BRN~IDN~THA
+Maldives|Malé|344023|300|Asia|
+Mali|Bamako|18135000|1240192|Africa|DZA~BFA~GIN~CIV~MRT~NER~SEN
+Malta|Valletta|425384|316|Europe|
+Marshall Islands|Majuro|54880|181|Oceania|
+Mauritania|Nouakchott|3718678|1030700|Africa|DZA~MLI~SEN~ESH
+Mauritius|Port Louis|1262879|2040|Africa|
+Mexico|Mexico City|122273473|1964375|Americas|BLZ~GTM~USA
+Micronesia (Federated States of)|Palikir|102800|702|Oceania|
+Moldova (Republic of)|Chișinău|3553100|33846|Europe|ROU~UKR
+Monaco|Monaco|38400|2|Europe|FRA
+Mongolia|Ulan Bator|3093100|1564110|Asia|CHN~RUS
+Montenegro|Podgorica|621810|13812|Europe|ALB~BIH~HRV~KOS~SRB
+Montserrat|Plymouth|4922|102|Americas|
+Morocco|Rabat|33337529|446550|Africa|DZA~ESH~ESP
+Mozambique|Maputo|26423700|801590|Africa|MWI~ZAF~SWZ~TZA~ZMB~ZWE
+Myanmar|Naypyidaw|51419420|676578|Asia|BGD~CHN~IND~LAO~THA
+Namibia|Windhoek|2324388|825615|Africa|AGO~BWA~ZAF~ZMB
+Nauru|Yaren|10084|21|Oceania|
+Nepal|Kathmandu|28431500|147181|Asia|CHN~IND
+Netherlands|Amsterdam|17019800|41850|Europe|BEL~DEU
+New Caledonia|Nouméa|268767|18575|Oceania|
+New Zealand|Wellington|4697854|270467|Oceania|
+Nicaragua|Managua|6262703|130373|Americas|CRI~HND
+Niger|Niamey|20715000|1267000|Africa|DZA~BEN~BFA~TCD~LBY~MLI~NGA
+Nigeria|Abuja|186988000|923768|Africa|BEN~CMR~TCD~NER
+Niue|Alofi|1470|260|Oceania|
+Norfolk Island|Kingston|2302|36|Oceania|
+Korea (Democratic People's Republic of)|Pyongyang|25281000|120538|Asia|CHN~KOR~RUS
+Northern Mariana Islands|Saipan|56940|464|Oceania|
+Norway|Oslo|5223256|323802|Europe|FIN~SWE~RUS
+Oman|Muscat|4420133|309500|Asia|SAU~ARE~YEM
+Pakistan|Islamabad|194125062|881912|Asia|AFG~CHN~IND~IRN
+Palau|Ngerulmud|17950|459|Oceania|
+Panama|Panama City|3814672|75417|Americas|COL~CRI
+Papua New Guinea|Port Moresby|8083700|462840|Oceania|IDN
+Paraguay|Asunción|6854536|406752|Americas|ARG~BOL~BRA
+Peru|Lima|31488700|1285216|Americas|BOL~BRA~CHL~COL~ECU
+Philippines|Manila|103279800|342353|Asia|
+Pitcairn|Adamstown|56|47|Oceania|
+Poland|Warsaw|38437239|312679|Europe|BLR~CZE~DEU~LTU~RUS~SVK~UKR
+Portugal|Lisbon|10374822|92090|Europe|ESP
+Puerto Rico|San Juan|3474182|8870|Americas|
+Qatar|Doha|2587564|11586|Asia|SAU
+Republic of Kosovo|Pristina|1733842|10908|Europe|ALB~MKD~MNE~SRB
+Romania|Bucharest|19861408|238391|Europe|BGR~HUN~MDA~SRB~UKR
+Russian Federation|Moscow|146599183|17124442|Europe|AZE~BLR~CHN~EST~FIN~GEO~KAZ~PRK~LVA~LTU~MNG~NOR~POL~UKR
+Rwanda|Kigali|11553188|26338|Africa|BDI~COD~TZA~UGA
+Saint Barthélemy|Gustavia|9417|21|Americas|
+Saint Kitts and Nevis|Basseterre|46204|261|Americas|
+Saint Lucia|Castries|186000|616|Americas|
+Saint Martin (French part)|Marigot|36979|53|Americas|SXM~NLD
+Saint Pierre and Miquelon|Saint-Pierre|6069|242|Americas|
+Saint Vincent and the Grenadines|Kingstown|109991|389|Americas|
+Samoa|Apia|194899|2842|Oceania|
+San Marino|City of San Marino|33005|61|Europe|ITA
+Sao Tome and Principe|São Tomé|187356|964|Africa|
+Saudi Arabia|Riyadh|32248200|2149690|Asia|IRQ~JOR~KWT~OMN~QAT~ARE~YEM
+Senegal|Dakar|14799859|196722|Africa|GMB~GIN~GNB~MLI~MRT
+Serbia|Belgrade|7076372|88361|Europe|BIH~BGR~HRV~HUN~KOS~MKD~MNE~ROU
+Seychelles|Victoria|91400|452|Africa|
+Sierra Leone|Freetown|7075641|71740|Africa|GIN~LBR
+Singapore|Singapore|5535000|710|Asia|
+Sint Maarten (Dutch part)|Philipsburg|38247|34|Americas|MAF
+Slovakia|Bratislava|5426252|49037|Europe|AUT~CZE~HUN~POL~UKR
+Slovenia|Ljubljana|2064188|20273|Europe|AUT~HRV~ITA~HUN
+Solomon Islands|Honiara|642000|28896|Oceania|
+Somalia|Mogadishu|11079000|637657|Africa|DJI~ETH~KEN
+South Africa|Pretoria|55653654|1221037|Africa|BWA~LSO~MOZ~NAM~SWZ~ZWE
+Korea (Republic of)|Seoul|50801405|100210|Asia|PRK
+South Sudan|Juba|12131000|619745|Africa|CAF~COD~ETH~KEN~SDN~UGA
+Spain|Madrid|46438422|505992|Europe|AND~FRA~GIB~PRT~MAR
+Sri Lanka|Colombo|20966000|65610|Asia|IND
+Sudan|Khartoum|39598700|1886068|Africa|CAF~TCD~EGY~ERI~ETH~LBY~SSD
+Suriname|Paramaribo|541638|163820|Americas|BRA~GUF~FRA~GUY
+Swaziland|Lobamba|1132657|17364|Africa|MOZ~ZAF
+Sweden|Stockholm|9894888|450295|Europe|FIN~NOR
+Switzerland|Bern|8341600|41284|Europe|AUT~FRA~ITA~LIE~DEU
+Syrian Arab Republic|Damascus|18564000|185180|Asia|IRQ~ISR~JOR~LBN~TUR
+Taiwan|Taipei|23503349|36193|Asia|
+Tajikistan|Dushanbe|8593600|143100|Asia|AFG~CHN~KGZ~UZB
+Tanzania, United Republic of|Dodoma|55155000|945087|Africa|BDI~COD~KEN~MWI~MOZ~RWA~UGA~ZMB
+Thailand|Bangkok|65327652|513120|Asia|MMR~KHM~LAO~MYS
+Timor-Leste|Dili|1167242|14874|Asia|IDN
+Togo|Lomé|7143000|56785|Africa|BEN~BFA~GHA
+Tokelau|Fakaofo|1411|12|Oceania|
+Tonga|Nuku'alofa|103252|747|Oceania|
+Trinidad and Tobago|Port of Spain|1349667|5130|Americas|
+Tunisia|Tunis|11154400|163610|Africa|DZA~LBY
+Turkey|Ankara|78741053|783562|Asia|ARM~AZE~BGR~GEO~GRC~IRN~IRQ~SYR
+Turkmenistan|Ashgabat|4751120|488100|Asia|AFG~IRN~KAZ~UZB
+Turks and Caicos Islands|Cockburn Town|31458|948|Americas|
+Tuvalu|Funafuti|10640|26|Oceania|
+Uganda|Kampala|33860700|241550|Africa|COD~KEN~RWA~SSD~TZA
+Ukraine|Kiev|42692393|603700|Europe|BLR~HUN~MDA~POL~ROU~RUS~SVK
+United Arab Emirates|Abu Dhabi|9856000|83600|Asia|OMN~SAU
+United Kingdom of Great Britain and Northern Ireland|London|65110000|242900|Europe|IRL
+United States of America|Washington, D.C.|323947000|9629091|Americas|CAN~MEX
+Uruguay|Montevideo|3480222|181034|Americas|ARG~BRA
+Uzbekistan|Tashkent|31576400|447400|Asia|AFG~KAZ~KGZ~TJK~TKM
+Vanuatu|Port Vila|277500|12189|Oceania|
+Venezuela (Bolivarian Republic of)|Caracas|31028700|916445|Americas|BRA~COL~GUY
+Viet Nam|Hanoi|92700000|331212|Asia|KHM~CHN~LAO
+Wallis and Futuna|Mata-Utu|11750|142|Oceania|
+Western Sahara|El Aaiún|510713|266000|Africa|DZA~MRT~MAR
+Yemen|Sana'a|27478000|527968|Asia|OMN~SAU
+Zambia|Lusaka|15933883|752612|Africa|AGO~BWA~COD~MWI~MOZ~NAM~TZA~ZWE
+Zimbabwe|Harare|14240168|390757|Africa|BWA~MOZ~ZAF~ZMB
